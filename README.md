@@ -1,4 +1,7 @@
-# hello-world
+# Hello-World
+---
+This is a total cool way to team up on projects
+
 Learning how to create a repository
 
 I am learning how to use Github.
