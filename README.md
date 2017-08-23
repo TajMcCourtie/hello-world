@@ -1,5 +1,4 @@
 # Hello-World
----
 This is a total cool way to team up on projects
 
 Learning how to create a repository
